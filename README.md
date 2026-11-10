@@ -98,7 +98,11 @@ C≡0 完全滿足 PDE（殘差 ~1e-20）；softplus 輸出層進入飽和區後
 python experiments/p0_analytic.py --mode inverse --weighting gradnorm --s2-patience 50
 ```
 
-第一階段用 Adam，loss 權重依梯度範數自動平衡；第二階段用 L-BFGS，沿用第一階段最後的權重並凍結。不要用固定的大觀測權重（例如 100），它會讓 PDE 的梯度幾乎失效，L-BFGS 也會因線搜尋失敗而停住（H17）。
+**兩個階段都用 gradnorm 權重**：
+- 第一階段（Adam）：每 100 步依梯度範數重算一次權重。
+- 第二階段（L-BFGS）：沿用第一階段最後算出的 gradnorm 權重，然後凍結。L-BFGS 靠歷史梯度估計曲率，線搜尋也假設目標函數不變，所以這個階段不更新權重。
+
+只在第二階段才開始用 gradnorm（第一階段用固定權重，`--stage2-weights gradnorm`）不夠穩定，3 個 seed 裡有 1 個的 K 偏到 0.16。不要用固定的大觀測權重（例如 100），它會讓 PDE 的梯度幾乎失效，L-BFGS 也會因線搜尋失敗而停住（H17）。
 
 **3. 接上真實水理場**：把 SRH-2D 的 h、u、v、τb 重建成 (x, y, t) 的**可微函數**，填入 `sscpinn/physics.py` 的 `Hydro`。不要把 h、u 當成網路的輸入特徵，否則殘差會漏掉 ∂h/∂x、∂u/∂x 這類鏈鎖律項。`experiments/check_6a_residual.py` 示範了正確與錯誤做法的差別，換成新的重建方式後，可以先用它驗證。
 
