@@ -1,5 +1,7 @@
 # SSC-PINNs：二維水理懸浮載濃度與輸砂量推估
 
+> **English summary.** A physics-informed neural network (PINN) for the 2D depth-averaged suspended sediment concentration C(x, y, t). Hydrodynamics (h, u, v, τb) come from a given 2D model such as SRH-2D (one-way coupling), and the network learns only C. The conservative-form residual is computed by automatic differentiation through differentiable flow fields, so spatially varying h and u are handled by the chain rule. Status: the method has been verified on an analytic 2D Gaussian plume (forward and inverse estimation of diffusivity K and settling velocity ws). It includes a training-strategy ablation and a manufactured-solution check of the residual under non-uniform flow. **No field data have been used.** The next step, connecting real SRH-2D output and measured SSC, is open for anyone to pick up. The research log (`research_log/`, in Traditional Chinese) records every hypothesis, design decision, result and its provenance. See "給接手者" below.
+
 以二維水深平均水理場（SRH-2D）驅動物理資訊神經網路（PINNs），推估懸浮載濃度 C(x,y,t)、斷面輸砂率 Qs(t) 與事件累積懸浮載輸送量 Ms。
 
 控制方程式（二維水深平均懸浮載守恆）：
@@ -51,7 +53,10 @@ python experiments/p0_analytic.py --iters 30000 --stop-at 10000   # 依 30000 �
 | 階段 | 內容 | 狀態 |
 |---|---|---|
 | P0 | 解析解驗證：AD、通量、質量守恆、參數反算 | ✅ 完成 |
-| P1 | 單事件固定流場（數值假想案例或 SRH-2D） | ⏳ 規劃中 |
+| P0 延伸 | 訓練策略消融（因果訓練、gradnorm、Fourier features、SOAP、第二階段優化器） | ✅ 完成：建議流程為「Adam + gradnorm 權重 → L-BFGS（權重凍結）」 |
+| 6A | 非均勻流場的殘差正確性（manufactured solution vs sympy，含負對照） | ✅ 測試通過；結論還在討論中 |
+| 6B、6C | 帶雜訊反算的可辨識性；其他待驗證項目 | — |
+| P1 | 單事件固定流場（SRH-2D） | ⏳ 等待 SRH-2D 輸出與實測 SSC |
 | P2 | 跨事件比較：SRH-2D／一般 NN／PINNs（M0–M3） | — |
 | P3 | 入流泥砂歷線重建、多情境代理模型 | — |
 
@@ -78,3 +83,51 @@ python experiments/p0_analytic.py --iters 30000 --stop-at 10000   # 依 30000 �
 | SGD lr=1e-2, momentum 0.9 | 反算 | 100% | 100% | 100% | 崩到 C≡0，K、w_s 停在初值 |
 
 C≡0 完全滿足 PDE（殘差 ~1e-20）；softplus 輸出層進入飽和區後梯度消失，連觀測 loss 與 L-BFGS 都拉不回來。
+
+> 上面兩張表是早期的固定權重結果；之後的比較與建議流程，見 `research_log/comparison_catalog.md` 與 `research_log/hypotheses.md`。
+
+## 給接手者
+
+這個專案目前沒有實地資料，方法驗證的部分已經完成。如果你手上有 SRH-2D 輸出和 SSC 實測資料，可以從這裡接手。
+
+**1. 先了解現況**：讀 [research_log/hypotheses.md](research_log/hypotheses.md)。最上面是目前最前沿的待解問題，下面是所有假設的狀態，以及支持或推翻它們的證據。
+
+**2. 目前建議的訓練流程**（[H18](research_log/hypotheses.md)，P0 正算與反算各 3 個 seed 都穩定）：
+
+```bash
+python experiments/p0_analytic.py --mode inverse --weighting gradnorm --s2-patience 50
+```
+
+第一階段用 Adam，loss 權重依梯度範數自動平衡；第二階段用 L-BFGS，沿用第一階段最後的權重並凍結。不要用固定的大觀測權重（例如 100），它會讓 PDE 的梯度幾乎失效，L-BFGS 也會因線搜尋失敗而停住（H17）。
+
+**3. 接上真實水理場**：把 SRH-2D 的 h、u、v、τb 重建成 (x, y, t) 的**可微函數**，填入 `sscpinn/physics.py` 的 `Hydro`。不要把 h、u 當成網路的輸入特徵，否則殘差會漏掉 ∂h/∂x、∂u/∂x 這類鏈鎖律項。`experiments/check_6a_residual.py` 示範了正確與錯誤做法的差別，換成新的重建方式後，可以先用它驗證。
+
+**4. 還沒做的事**：
+- P1：拿到資料後的單事件固定流場
+- 6B：測站數與雜訊量對 K、ws 可辨識性的影響（H11、H19）
+- H1–H3：和一般神經網路、SRH-2D 本身的比較
+
+文獻定位見 [research_log/ideas/009](research_log/ideas/009-contribution-positioning-literature.md)。
+
+## 用 epistemic-provenance skill 閱讀研究紀錄
+
+`research_log/` 是用 [epistemic-provenance](https://github.com/roger-chang1999/epistemic-provenance) skill 維護的。它是一套給 Claude 用的研究紀錄流程，每個主張都記錄來源、證據和改變的過程，每個實驗也都經過設計與分析兩個討論關卡。
+
+建議裝上這個 skill，再讓 Claude 帶你讀研究紀錄。它會依照紀錄的結構回答，分清楚假設、證據和推測，也能沿用同樣的格式繼續記錄你的實驗。
+
+```bash
+claude plugin marketplace add roger-chang1999/epistemic-provenance
+claude plugin install epistemic-provenance@epistemic-provenance
+```
+
+然後在這個專案裡問 Claude，例如：
+
+- 「我們現在研究進度到哪？」
+- 「解釋 H17 是怎麼被發現的」
+- 「我拿到 SRH-2D 資料了，我們來討論 P1 的實驗設計」
+
+## 授權
+
+- 程式碼（`sscpinn/`、`experiments/`、`tools/`）：[MIT](LICENSE)
+- 研究紀錄與實驗結果（`research_log/`、`results/`）：[CC BY 4.0](research_log/LICENSE.md)，使用時請標明出處
+- `research_log/papers/` 筆記中引用的文獻內容，版權屬於原作者
