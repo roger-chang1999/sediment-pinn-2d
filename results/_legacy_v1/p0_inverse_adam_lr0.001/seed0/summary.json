@@ -1,0 +1,11 @@
+{
+  "mode": "inverse",
+  "relL2": 0.06170688774288936,
+  "K_est": 1.91329824924469,
+  "K_true": 2.0,
+  "ws_est": 0.000991729204542935,
+  "ws_true": 0.001,
+  "max_mass_rel_err": 0.03013608604669571,
+  "train_time_s": 304.55653738975525,
+  "device": "NVIDIA GeForce RTX 2070"
+}

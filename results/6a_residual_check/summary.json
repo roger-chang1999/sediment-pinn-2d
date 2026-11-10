@@ -1,0 +1,115 @@
+{
+  "params": {
+    "LX": 1000.0,
+    "LY": 400.0,
+    "LT": 500.0,
+    "KX": 2.0,
+    "KY": 1.5,
+    "WS": 0.001,
+    "ALPHA": 1.2,
+    "M": 0.0001,
+    "TAU_CE": 1.0
+  },
+  "results": [
+    {
+      "test": "test1_manufactured",
+      "dtype": "float64",
+      "n_points": 10000,
+      "term_scale_maxabs": {
+        "storage": 0.023705134451886746,
+        "advection": 0.024151160872799348,
+        "diffusion": 0.002595679027090895,
+        "source": 0.001313112471342997,
+        "R": 0.01304283639139873,
+        "chain_rule_part": 0.006095119789594053
+      },
+      "correct": {
+        "max_abs_err": 5.898059818321144e-17,
+        "rms_abs_err": 4.566248766222838e-18,
+        "max_rel_err": 4.52206839166571e-15,
+        "rms_rel_err": 4.36244092766198e-15
+      },
+      "negative_control": {
+        "max_abs_err": 0.006095119789594036,
+        "rms_abs_err": 0.0006225006004744735,
+        "max_rel_err": 0.46731551379526187,
+        "rms_rel_err": 0.59471619616781
+      }
+    },
+    {
+      "test": "test1_manufactured",
+      "dtype": "float32",
+      "n_points": 10000,
+      "term_scale_maxabs": {
+        "storage": 0.023705134451886746,
+        "advection": 0.024151160872799348,
+        "diffusion": 0.002595679027090895,
+        "source": 0.001313112471342997,
+        "R": 0.01304283639139873,
+        "chain_rule_part": 0.006095119789594053
+      },
+      "correct": {
+        "max_abs_err": 8.169166128280114e-09,
+        "rms_abs_err": 4.955573520884114e-10,
+        "max_rel_err": 6.263335583713508e-07,
+        "rms_rel_err": 4.734388741028972e-07
+      },
+      "negative_control": {
+        "max_abs_err": 0.006095119308941461,
+        "rms_abs_err": 0.0006225005794011934,
+        "max_rel_err": 0.46731547694341763,
+        "rms_rel_err": 0.594716176035105
+      }
+    },
+    {
+      "test": "test2_conservation",
+      "dtype": "float64",
+      "n_points": 10000,
+      "term_scale_maxabs": {
+        "storage": 0.0,
+        "advection": 0.0,
+        "diffusion": 0.0,
+        "source": 0.0,
+        "R": 0.0,
+        "chain_rule_part": 0.0
+      },
+      "correct": {
+        "max_abs_err": 6.505213034913027e-19,
+        "rms_abs_err": 1.3124207621065228e-19,
+        "max_rel_err": null,
+        "rms_rel_err": null
+      },
+      "negative_control": {
+        "max_abs_err": 0.0,
+        "rms_abs_err": 0.0,
+        "max_rel_err": null,
+        "rms_rel_err": null
+      }
+    },
+    {
+      "test": "test2_conservation",
+      "dtype": "float32",
+      "n_points": 10000,
+      "term_scale_maxabs": {
+        "storage": 0.0,
+        "advection": 0.0,
+        "diffusion": 0.0,
+        "source": 0.0,
+        "R": 0.0,
+        "chain_rule_part": 0.0
+      },
+      "correct": {
+        "max_abs_err": 4.656612873077393e-10,
+        "rms_abs_err": 7.151629124360666e-11,
+        "max_rel_err": null,
+        "rms_rel_err": null
+      },
+      "negative_control": {
+        "max_abs_err": 0.0,
+        "rms_abs_err": 0.0,
+        "max_rel_err": null,
+        "rms_rel_err": null
+      }
+    }
+  ]
+}

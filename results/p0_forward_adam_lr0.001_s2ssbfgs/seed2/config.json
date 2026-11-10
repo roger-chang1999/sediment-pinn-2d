@@ -1,0 +1,23 @@
+{
+  "mode": "forward",
+  "opt": "adam",
+  "lr": 0.001,
+  "momentum": 0.0,
+  "wd": 0.0,
+  "nf": 8192,
+  "width": 64,
+  "depth": 5,
+  "seed": 2,
+  "causal_eps": 0.0,
+  "causal_bins": 32,
+  "weighting": "fixed",
+  "gn_every": 100,
+  "gn_alpha": 0.9,
+  "fourier_sigma": 0.0,
+  "fourier_m": 64,
+  "precond_freq": 10,
+  "iters": 15000,
+  "stage2": "ssbfgs",
+  "stage2_iters": 500,
+  "stage1_from": "results/p0_forward_adam_lr0.001/seed2"
+}

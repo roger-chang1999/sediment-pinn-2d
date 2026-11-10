@@ -1,0 +1,18 @@
+{
+  "mode": "inverse",
+  "opt": "sgd",
+  "lr": 0.01,
+  "momentum": 0.9,
+  "wd": 0.0,
+  "relL2_stage1": 1.0,
+  "K_stage1": 0.5,
+  "ws_stage1": 0.0049890922382473946,
+  "relL2": 1.0,
+  "K_est": 0.5,
+  "K_true": 2.0,
+  "ws_est": 0.0049890922382473946,
+  "ws_true": 0.001,
+  "max_mass_rel_err": 1.0,
+  "train_time_s": 284.23000931739807,
+  "device": "NVIDIA GeForce RTX 2070"
+}

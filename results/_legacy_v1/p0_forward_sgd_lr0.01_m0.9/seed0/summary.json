@@ -1,0 +1,18 @@
+{
+  "mode": "forward",
+  "opt": "sgd",
+  "lr": 0.01,
+  "momentum": 0.9,
+  "wd": 0.0,
+  "relL2_stage1": 0.9999999904640177,
+  "K_stage1": 2.0,
+  "ws_stage1": 0.0009999999310821295,
+  "relL2": 0.9999999904640177,
+  "K_est": 2.0,
+  "K_true": 2.0,
+  "ws_est": 0.0009999999310821295,
+  "ws_true": 0.001,
+  "max_mass_rel_err": 0.9999999403953552,
+  "train_time_s": 256.68419551849365,
+  "device": "NVIDIA GeForce RTX 2070"
+}

@@ -1,0 +1,11 @@
+{
+  "mode": "forward",
+  "relL2": 0.026409827191384613,
+  "K_est": 2.0,
+  "K_true": 2.0,
+  "ws_est": 0.0009999999310821295,
+  "ws_true": 0.001,
+  "max_mass_rel_err": 0.03672441840171814,
+  "train_time_s": 280.5595669746399,
+  "device": "NVIDIA GeForce RTX 2070"
+}

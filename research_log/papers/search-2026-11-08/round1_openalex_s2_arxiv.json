@@ -1,0 +1,2079 @@
+{
+ "physics-informed neural network suspended sediment concentration": {
+  "openalex": [
+   {
+    "title": "Dual-Network Physics-Informed Neural Networks for High-Precision Modeling of Marine Suspended Sediment Concentration",
+    "year": 2026,
+    "venue": "SSRN Electronic Journal",
+    "doi": "https://doi.org/10.2139/ssrn.6467251",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Predicting suspended floc size in estuarine waters using self-adaptive parameterized physics-informed neural networks",
+    "year": 2025,
+    "venue": "Water Research",
+    "doi": "https://doi.org/10.1016/j.watres.2025.124094",
+    "cited": 10,
+    "type": "article"
+   },
+   {
+    "title": "Prediction of tidal flat topographic evolution in China by physics-informed neural networks",
+    "year": 2026,
+    "venue": "Physics and Chemistry of the Earth Parts A/B/C",
+    "doi": "https://doi.org/10.1016/j.pce.2026.104582",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Hybrid physics-informed neural networks for simulating coupled flow-sediment-bed fields in large, deep reservoirs",
+    "year": 2026,
+    "venue": "SSRN Electronic Journal",
+    "doi": "https://doi.org/10.2139/ssrn.7163967",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "PINN-Sed: Interconnected Physics-Informed Machine Learning Model for High Resolution Suspended Sediment Transport in River Network",
+    "year": 2026,
+    "venue": "Journal of Hydraulic Engineering",
+    "doi": "https://doi.org/10.1061/jhend8.hyeng-14926",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Leveraging physics-informed neural networks for efficient modelling of coastal ecosystems dynamics: A case study of Sundarbans mangrove forest",
+    "year": 2025,
+    "venue": "Ecological Informatics",
+    "doi": "https://doi.org/10.1016/j.ecoinf.2025.103302",
+    "cited": 13,
+    "type": "article"
+   },
+   {
+    "title": "End-to-End Neural Interpolation of Satellite-Derived Sea Surface Suspended Sediment Concentrations",
+    "year": 2022,
+    "venue": "Remote Sensing",
+    "doi": "https://doi.org/10.3390/rs14164024",
+    "cited": 18,
+    "type": "article"
+   },
+   {
+    "title": "Reconstructing suspended sediment concentrations in the Mekong River Basin via semi-supervised-based deep neural networks",
+    "year": 2024,
+    "venue": "The Science of The Total Environment",
+    "doi": "https://doi.org/10.1016/j.scitotenv.2024.176758",
+    "cited": 4,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks(PINNs) for PDEs and Fluids: A Review",
+    "year": 2026,
+    "venue": "IntechOpen eBooks",
+    "doi": "https://doi.org/10.5772/intechopen.1016784",
+    "cited": 0,
+    "type": "book-chapter"
+   },
+   {
+    "title": "Prediction of suspended sediment concentration in fluvial flows using novel hybrid deep learning model",
+    "year": 2025,
+    "venue": "International Journal of Sediment Research",
+    "doi": "https://doi.org/10.1016/j.ijsrc.2025.02.004",
+    "cited": 55,
+    "type": "article"
+   },
+   {
+    "title": "Modeling Siltation of River Channels using the Physics-Informed Neural Networks Method and Numerical Simulation",
+    "year": 2024,
+    "venue": "Engineered Science",
+    "doi": "https://doi.org/10.30919/es1296",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Predictive Maintenance in Nigerian Hydropower Infrastructure",
+    "year": 2025,
+    "venue": "IJIMCE : International Journal of Innovation in Mechanical Construction and Energy",
+    "doi": null,
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for the Prediction of Critical Sand Transport Velocity in Oil and Gas Pipelines",
+    "year": 2024,
+    "venue": "Journal of Engineering Research",
+    "doi": "https://doi.org/10.52968/72016982",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Synergistic Physics Integration In Deep Learning Architectures For High-Accuracy Suspended Solids Prediction Using Satellite And In-Situ Data",
+    "year": 2025,
+    "venue": "International Conference on Emerging Technologies",
+    "doi": "https://doi.org/10.1109/icet66147.2025.11321451",
+    "cited": 0,
+    "type": "conference-paper"
+   },
+   {
+    "title": "When physics meets machine learning: a survey of physics-informed machine learning",
+    "year": 2025,
+    "venue": "Machine learning for computational science and engineering",
+    "doi": "https://doi.org/10.1007/s44379-025-00016-0",
+    "cited": 388,
+    "type": "article"
+   },
+   {
+    "title": "Quantification of Suspended Sediment Concentration Using Laboratory Experimental Data and Machine Learning Model",
+    "year": 2025,
+    "venue": "Water",
+    "doi": "https://doi.org/10.3390/w17152301",
+    "cited": 5,
+    "type": "article"
+   },
+   {
+    "title": "Visual information guided physics informed neural networks framework for predictive coagulant dose optimization",
+    "year": 2026,
+    "venue": "Discover Artificial Intelligence",
+    "doi": "https://doi.org/10.1007/s44163-026-02372-z",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Three-Dimensional River Microplastic Transport: Integrating Conservation Principles with Deep Learning",
+    "year": 2026,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su18031392",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for two-dimensional wall-reactive solute dispersion in canonical shear flows",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2608.00856",
+    "cited": 2,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics-Informed Data Augmentation for Sediment Concentration Prediction in Data-Scarce Himalayan Rivers",
+    "year": 2026,
+    "venue": "International  Journal on Engineering Technology and Infrastructure Development.",
+    "doi": "https://doi.org/10.3126/injet-indev.v2i2.95706",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Comparison of Adaptive Neuro-Fuzzy and SWAT Models of Suspended Sediment Concentration in an Atlantic Coastal Watershed",
+    "year": 2026,
+    "venue": "SSRN Electronic Journal",
+    "doi": "https://doi.org/10.2139/ssrn.7442129",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Unraveling Microplastics in Lakes with a Mechanism-Informed, Few-Shot Data-Driven Liquid Neural Networks",
+    "year": 2026,
+    "venue": "Environmental Science & Technology",
+    "doi": "https://doi.org/10.1021/acs.est.6c05904",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "A PROBABILISTIC TWO-REGIME GOVERNING MODEL FOR PREDICTING INFLOW SUSPENDED SEDIMENT CONCENTRATION IN DAM RESERVOIRS",
+    "year": 2026,
+    "venue": "Larhyss journal",
+    "doi": null,
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Intelligent prediction of sediment floc settling velocity: Employing explainable machine learning and quantifying the impacts of environmental factors",
+    "year": 2025,
+    "venue": "Marine Geology",
+    "doi": "https://doi.org/10.1016/j.margeo.2025.107631",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Comparison of Adaptive Neuro-Fuzzy and SWAT Models of Suspended Sediment Concentration in an Atlantic Coastal Watershed",
+    "year": 2026,
+    "venue": "SSRN Electronic Journal",
+    "doi": "https://doi.org/10.2139/ssrn.7353715",
+    "cited": 0,
+    "type": "preprint"
+   }
+  ],
+  "s2": [],
+  "arxiv": []
+ },
+ "physics-informed neural network sediment transport river": {
+  "openalex": [
+   {
+    "title": "Physics-informed neural networks for inversion of river flow and geometry with shallow water model",
+    "year": 2024,
+    "venue": "Physics of Fluids",
+    "doi": "https://doi.org/10.1063/5.0232852",
+    "cited": 23,
+    "type": "article"
+   },
+   {
+    "title": "Modeling Siltation of River Channels using the Physics-Informed Neural Networks Method and Numerical Simulation",
+    "year": 2024,
+    "venue": "Engineered Science",
+    "doi": "https://doi.org/10.30919/es1296",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "PINN-Sed: Interconnected Physics-Informed Machine Learning Model for High Resolution Suspended Sediment Transport in River Network",
+    "year": 2026,
+    "venue": "Journal of Hydraulic Engineering",
+    "doi": "https://doi.org/10.1061/jhend8.hyeng-14926",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Application of Physics-Informed Neural Networks to River Silting Simulation",
+    "year": 2023,
+    "venue": "Applied Sciences",
+    "doi": "https://doi.org/10.3390/app132111983",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural network modeling of coupled one-dimensional water–sediment systems",
+    "year": 2026,
+    "venue": "SSRN Electronic Journal",
+    "doi": "https://doi.org/10.2139/ssrn.6561860",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics‐Informed Neural Networks of the Saint‐Venant Equations for Downscaling a Large‐Scale River Model",
+    "year": 2023,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2022wr033168",
+    "cited": 122,
+    "type": "article"
+   },
+   {
+    "title": "Identification of settling velocity with physics informed neural networks for sediment Laden flows",
+    "year": 2024,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "doi": "https://doi.org/10.1016/j.cma.2024.117389",
+    "cited": 25,
+    "type": "article"
+   },
+   {
+    "title": "Enhanced physics‐informed neural networks for efficient modelling of hydrodynamics in river networks",
+    "year": 2024,
+    "venue": "Hydrological Processes",
+    "doi": "https://doi.org/10.1002/hyp.15143",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks with Periodic Activation Functions for Solute Transport in Heterogeneous Porous Media",
+    "year": 2023,
+    "venue": "Mathematics",
+    "doi": "https://doi.org/10.3390/math12010063",
+    "cited": 73,
+    "type": "article"
+   },
+   {
+    "title": "Modeling of water waves and sediment transport using physics-based and machine learning methods",
+    "year": 2022,
+    "venue": null,
+    "doi": "https://doi.org/10.17760/d20467269",
+    "cited": 0,
+    "type": "dissertation"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Three-Dimensional River Microplastic Transport: Integrating Conservation Principles with Deep Learning",
+    "year": 2026,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su18031392",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Modeling of water waves and sediment transport using physics-based and machine learning methods",
+    "year": null,
+    "venue": "Digital Repository Service (Northeastern University)",
+    "doi": null,
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for tsunami inundation modeling",
+    "year": 2025,
+    "venue": "Journal of Computational Physics",
+    "doi": "https://doi.org/10.1016/j.jcp.2025.114066",
+    "cited": 26,
+    "type": "article"
+   },
+   {
+    "title": "ELPINN: Eulerian Lagrangian Physics-Informed Neural Network",
+    "year": 2025,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2504.09053",
+    "cited": 2,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics-Informed Data Augmentation for Sediment Concentration Prediction in Data-Scarce Himalayan Rivers",
+    "year": 2026,
+    "venue": "International  Journal on Engineering Technology and Infrastructure Development.",
+    "doi": "https://doi.org/10.3126/injet-indev.v2i2.95706",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics‐Informed Neural Networks for the Augmented System of Shallow Water Equations With Topography",
+    "year": 2024,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2023wr036589",
+    "cited": 30,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for solving flow problems modeled by the 2D Shallow Water Equations without labeled data",
+    "year": 2024,
+    "venue": "Journal of Hydrology",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2024.131263",
+    "cited": 92,
+    "type": "article"
+   },
+   {
+    "title": "Surrogate models, physics-informed neural networks and climate change",
+    "year": 2024,
+    "venue": null,
+    "doi": "https://doi.org/10.4995/thesis/10251/205793",
+    "cited": 1,
+    "type": "dissertation"
+   },
+   {
+    "title": "Leveraging physics-informed neural networks for efficient modelling of coastal ecosystems dynamics: A case study of Sundarbans mangrove forest",
+    "year": 2025,
+    "venue": "Ecological Informatics",
+    "doi": "https://doi.org/10.1016/j.ecoinf.2025.103302",
+    "cited": 13,
+    "type": "article"
+   },
+   {
+    "title": "Evaluating physics informed neural networks for water contamination risk prediction and environmental sustainability",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-025-30196-x",
+    "cited": 14,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural network combined with characteristic-based split for solving Navier–Stokes equations",
+    "year": 2023,
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "doi": "https://doi.org/10.1016/j.engappai.2023.107453",
+    "cited": 31,
+    "type": "article"
+   },
+   {
+    "title": "Wall shear stress reconstruction from concentration: Differentiable physics and physics-informed neural networks",
+    "year": 2026,
+    "venue": "Physics of Fluids",
+    "doi": "https://doi.org/10.1063/5.0346659",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Predictive Maintenance in Nigerian Hydropower Infrastructure",
+    "year": 2025,
+    "venue": "IJIMCE : International Journal of Innovation in Mechanical Construction and Energy",
+    "doi": null,
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks and variants in weather and hydrological modeling: a systematic review",
+    "year": 2026,
+    "venue": "Natural Hazards Research",
+    "doi": "https://doi.org/10.1016/j.nhres.2026.07.003",
+    "cited": 3,
+    "type": "review"
+   },
+   {
+    "title": "Physics-informed neural networks for phase-resolved data assimilation and prediction of nonlinear ocean waves",
+    "year": 2025,
+    "venue": "Physical Review Fluids",
+    "doi": "https://doi.org/10.1103/ytyy-pvys",
+    "cited": 23,
+    "type": "article"
+   }
+  ],
+  "s2": [],
+  "arxiv": []
+ },
+ "physics-informed neural network sediment transport two-dimensional shallow water": {
+  "openalex": [
+   {
+    "title": "Physics‐Informed Neural Networks for the Augmented System of Shallow Water Equations With Topography",
+    "year": 2024,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2023wr036589",
+    "cited": 30,
+    "type": "article"
+   },
+   {
+    "title": "Physics‐Informed Neural Networks for Solving the Two‐Dimensional Shallow Water Equations With Terrain Topography and Rainfall Source Terms",
+    "year": 2025,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2025wr040052",
+    "cited": 11,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for solving flow problems modeled by the 2D Shallow Water Equations without labeled data",
+    "year": 2024,
+    "venue": "Journal of Hydrology",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2024.131263",
+    "cited": 92,
+    "type": "article"
+   },
+   {
+    "title": "Modeling of water waves and sediment transport using physics-based and machine learning methods",
+    "year": 2022,
+    "venue": null,
+    "doi": "https://doi.org/10.17760/d20467269",
+    "cited": 0,
+    "type": "dissertation"
+   },
+   {
+    "title": "Modeling of water waves and sediment transport using physics-based and machine learning methods",
+    "year": null,
+    "venue": "Digital Repository Service (Northeastern University)",
+    "doi": null,
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for tsunami inundation modeling",
+    "year": 2025,
+    "venue": "Journal of Computational Physics",
+    "doi": "https://doi.org/10.1016/j.jcp.2025.114066",
+    "cited": 26,
+    "type": "article"
+   },
+   {
+    "title": "Application of Physics-Informed Neural Networks to River Silting Simulation",
+    "year": 2023,
+    "venue": "Applied Sciences",
+    "doi": "https://doi.org/10.3390/app132111983",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "Physics‐Informed Neural Networks of the Saint‐Venant Equations for Downscaling a Large‐Scale River Model",
+    "year": 2023,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2022wr033168",
+    "cited": 122,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Three-Dimensional River Microplastic Transport: Integrating Conservation Principles with Deep Learning",
+    "year": 2026,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su18031392",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Enhanced physics‐informed neural networks for efficient modelling of hydrodynamics in river networks",
+    "year": 2024,
+    "venue": "Hydrological Processes",
+    "doi": "https://doi.org/10.1002/hyp.15143",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural network combined with characteristic-based split for solving Navier–Stokes equations",
+    "year": 2023,
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "doi": "https://doi.org/10.1016/j.engappai.2023.107453",
+    "cited": 31,
+    "type": "article"
+   },
+   {
+    "title": "PINN-Sed: Interconnected Physics-Informed Machine Learning Model for High Resolution Suspended Sediment Transport in River Network",
+    "year": 2026,
+    "venue": "Journal of Hydraulic Engineering",
+    "doi": "https://doi.org/10.1061/jhend8.hyeng-14926",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Leveraging physics-informed neural networks for efficient modelling of coastal ecosystems dynamics: A case study of Sundarbans mangrove forest",
+    "year": 2025,
+    "venue": "Ecological Informatics",
+    "doi": "https://doi.org/10.1016/j.ecoinf.2025.103302",
+    "cited": 13,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks and variants in weather and hydrological modeling: a systematic review",
+    "year": 2026,
+    "venue": "Natural Hazards Research",
+    "doi": "https://doi.org/10.1016/j.nhres.2026.07.003",
+    "cited": 3,
+    "type": "review"
+   },
+   {
+    "title": "Advances in two-phase flow and heat transfer using physics-informed neural networks",
+    "year": 2025,
+    "venue": "Chinese Science Bulletin (Chinese Version)",
+    "doi": "https://doi.org/10.1360/csb-2025-5354",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Surrogate models, physics-informed neural networks and climate change",
+    "year": 2024,
+    "venue": null,
+    "doi": "https://doi.org/10.4995/thesis/10251/205793",
+    "cited": 1,
+    "type": "dissertation"
+   },
+   {
+    "title": "PHYSICS INFORMED NEURAL NETWORKS TO MODEL THE HYDRO-MORPHODYNAMICS OF MANGROVE ENVIRONMENTS",
+    "year": 2023,
+    "venue": "UNCECOMP Proceedings",
+    "doi": "https://doi.org/10.7712/120223.10378.19649",
+    "cited": 4,
+    "type": "conference-paper"
+   },
+   {
+    "title": "Physics-informed neural networks for phase-resolved data assimilation and prediction of nonlinear ocean waves",
+    "year": 2025,
+    "venue": "Physical Review Fluids",
+    "doi": "https://doi.org/10.1103/ytyy-pvys",
+    "cited": 23,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Network water surface predictability for 1D steady-state open channel cases with different flow types and complex bed profile shapes",
+    "year": 2022,
+    "venue": "Advanced Modeling and Simulation in Engineering Sciences",
+    "doi": "https://doi.org/10.1186/s40323-022-00226-8",
+    "cited": 28,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Real-Time State Estimation in High-Altitude Hydropower Cascades",
+    "year": 2026,
+    "venue": "Journal of modern energy research.",
+    "doi": "https://doi.org/10.56947/jmer.v7.1",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "A Neural Operator Emulator for Coastal and Riverine Shallow Water Dynamics",
+    "year": 2026,
+    "venue": "Journal of Geophysical Research Machine Learning and Computation",
+    "doi": "https://doi.org/10.1029/2025jh000697",
+    "cited": 7,
+    "type": "article"
+   },
+   {
+    "title": "Thermal Earth model for the conterminous United States using an interpolative physics-informed graph neural network",
+    "year": 2024,
+    "venue": "Geothermal Energy",
+    "doi": "https://doi.org/10.1186/s40517-024-00304-7",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "Artificial Intelligence Application on Sediment Transport",
+    "year": 2021,
+    "venue": "Journal of Marine Science and Engineering",
+    "doi": "https://doi.org/10.3390/jmse9060600",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "A thermodynamics-integrated physics-guided neural network for soil temperature forecasting",
+    "year": 2026,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-50274-y",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Impact of deep learning-based dropout on shallow neural networks applied to stream temperature modelling",
+    "year": 2019,
+    "venue": "Earth-Science Reviews",
+    "doi": "https://doi.org/10.1016/j.earscirev.2019.103076",
+    "cited": 90,
+    "type": "article"
+   }
+  ],
+  "s2": [],
+  "arxiv": []
+ },
+ "physics-informed neural network advection diffusion inverse parameter estimation river": {
+  "openalex": [
+   {
+    "title": "Solution of advection-diffusion-reaction inverse problems with Physics-Informed Neural Networks",
+    "year": 2023,
+    "venue": "Proceeding Series of the Brazilian Society of Computational and Applied Mathematics",
+    "doi": "https://doi.org/10.5540/03.2023.010.01.0101",
+    "cited": 0,
+    "type": "conference-paper"
+   },
+   {
+    "title": "Physics‐Informed Neural Network Method for Forward and Backward Advection‐Dispersion Equations",
+    "year": 2021,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2020wr029479",
+    "cited": 153,
+    "type": "article"
+   },
+   {
+    "title": "Enhanced physics‐informed neural networks for efficient modelling of hydrodynamics in river networks",
+    "year": 2024,
+    "venue": "Hydrological Processes",
+    "doi": "https://doi.org/10.1002/hyp.15143",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "Randomized physics-informed neural networks for Bayesian data assimilation",
+    "year": 2025,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "doi": "https://doi.org/10.1016/j.cma.2024.117670",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks with Periodic Activation Functions for Solute Transport in Heterogeneous Porous Media",
+    "year": 2023,
+    "venue": "Mathematics",
+    "doi": "https://doi.org/10.3390/math12010063",
+    "cited": 73,
+    "type": "article"
+   },
+   {
+    "title": "Analytical and numerical solutions of MABC fractional advection dispersion models by utilizing the modified physics informed neural networks with impacts of fractional derivative",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-025-30065-7",
+    "cited": 15,
+    "type": "article"
+   },
+   {
+    "title": "Deep neural network methods for solving forward and inverse problems of time fractional diffusion equations with conformable derivative",
+    "year": 2022,
+    "venue": "Neurocomputing",
+    "doi": "https://doi.org/10.1016/j.neucom.2022.08.030",
+    "cited": 51,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Three-Dimensional River Microplastic Transport: Integrating Conservation Principles with Deep Learning",
+    "year": 2026,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su18031392",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2606.12735",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Modeling parametric uncertainty in PDEs models via Physics-Informed Neural Networks",
+    "year": 2024,
+    "venue": "Advances in Water Resources",
+    "doi": "https://doi.org/10.1016/j.advwatres.2024.104870",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "Evaluating physics informed neural networks for water contamination risk prediction and environmental sustainability",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-025-30196-x",
+    "cited": 14,
+    "type": "article"
+   },
+   {
+    "title": "Wall shear stress reconstruction from concentration: Differentiable physics and physics-informed neural networks",
+    "year": 2026,
+    "venue": "Physics of Fluids",
+    "doi": "https://doi.org/10.1063/5.0346659",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2608.17591",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics-Informed Neural Networks in Aerospace: A Structured Taxonomy with Literature Review",
+    "year": 2025,
+    "venue": "Challenges and Issues of Modern Science",
+    "doi": "https://doi.org/10.15421/cims.4.313",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "1-D coupled surface flow and transport equations revisited via the physics-informed neural network approach",
+    "year": 2023,
+    "venue": "Journal of Hydrology",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2023.130048",
+    "cited": 22,
+    "type": "article"
+   },
+   {
+    "title": "Machine Learning in Fluid Dynamics—Physics-Informed Neural Networks (PINNs) Using Sparse Data: A Review",
+    "year": 2025,
+    "venue": "Fluids",
+    "doi": "https://doi.org/10.3390/fluids10090226",
+    "cited": 39,
+    "type": "review"
+   },
+   {
+    "title": "Physics-informed neural networks and variants in weather and hydrological modeling: a systematic review",
+    "year": 2026,
+    "venue": "Natural Hazards Research",
+    "doi": "https://doi.org/10.1016/j.nhres.2026.07.003",
+    "cited": 3,
+    "type": "review"
+   },
+   {
+    "title": "A Comparative Study of Physics‐Informed and Data‐Driven Neural Networks for Compound Flood Simulation at River‐Ocean Interfaces: A Case Study of Hurricane Irene",
+    "year": 2025,
+    "venue": "Journal of Geophysical Research Machine Learning and Computation",
+    "doi": "https://doi.org/10.1029/2025jh000758",
+    "cited": 5,
+    "type": "article"
+   },
+   {
+    "title": "From PINNs to PIKANs: recent advances in physics-informed machine learning",
+    "year": 2025,
+    "venue": "Machine learning for computational science and engineering",
+    "doi": "https://doi.org/10.1007/s44379-025-00015-1",
+    "cited": 296,
+    "type": "article"
+   },
+   {
+    "title": "Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2604.09374",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "PINN‐CDR: A Neural Network‐Based Simulation Tool for Convection‐Diffusion‐Reaction Systems",
+    "year": 2023,
+    "venue": "International Journal of Intelligent Systems",
+    "doi": "https://doi.org/10.1155/2023/2973249",
+    "cited": 16,
+    "type": "article"
+   },
+   {
+    "title": "SPLIT-PINN: Separable probability learning technique via physics-informed neural networks for high-dimensional probabilistic modeling",
+    "year": 2026,
+    "venue": "Journal of the Mechanics and Physics of Solids",
+    "doi": "https://doi.org/10.1016/j.jmps.2026.106777",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "Using physics‐informed neural networks to quantify submarine groundwater discharge under high‐frequency tidal dynamics using heat as a tracer",
+    "year": 2025,
+    "venue": "Limnology and Oceanography Methods",
+    "doi": "https://doi.org/10.1002/lom3.70015",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "A Physics-Informed Computational Framework for Forward Prediction and Inverse Closure Learning of Pore-Scale Biofilm Growth",
+    "year": 2026,
+    "venue": "Research Square",
+    "doi": "https://doi.org/10.21203/rs.3.rs-10384053/v1",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "A new hybrid physics-guided AI algorithm for water quality prediction supported by variable coefficients advection-diffusion model",
+    "year": 2026,
+    "venue": "Discover Artificial Intelligence",
+    "doi": "https://doi.org/10.1007/s44163-026-01248-6",
+    "cited": 1,
+    "type": "article"
+   }
+  ],
+  "s2": [],
+  "arxiv": []
+ },
+ "physics-informed neural network settling velocity sediment": {
+  "openalex": [
+   {
+    "title": "Identification of settling velocity with physics informed neural networks for sediment Laden flows",
+    "year": 2024,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "doi": "https://doi.org/10.1016/j.cma.2024.117389",
+    "cited": 25,
+    "type": "article"
+   },
+   {
+    "title": "Intelligent prediction of sediment floc settling velocity: Employing explainable machine learning and quantifying the impacts of environmental factors",
+    "year": 2025,
+    "venue": "Marine Geology",
+    "doi": "https://doi.org/10.1016/j.margeo.2025.107631",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for the Prediction of Critical Sand Transport Velocity in Oil and Gas Pipelines",
+    "year": 2024,
+    "venue": "Journal of Engineering Research",
+    "doi": "https://doi.org/10.52968/72016982",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Application of Physics-Informed Neural Networks to River Silting Simulation",
+    "year": 2023,
+    "venue": "Applied Sciences",
+    "doi": "https://doi.org/10.3390/app132111983",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks(PINNs) for PDEs and Fluids: A Review",
+    "year": 2026,
+    "venue": "IntechOpen eBooks",
+    "doi": "https://doi.org/10.5772/intechopen.1016784",
+    "cited": 0,
+    "type": "book-chapter"
+   },
+   {
+    "title": "Visual information guided physics informed neural networks framework for predictive coagulant dose optimization",
+    "year": 2026,
+    "venue": "Discover Artificial Intelligence",
+    "doi": "https://doi.org/10.1007/s44163-026-02372-z",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Advances in two-phase flow and heat transfer using physics-informed neural networks",
+    "year": 2025,
+    "venue": "Chinese Science Bulletin (Chinese Version)",
+    "doi": "https://doi.org/10.1360/csb-2025-5354",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Learning characteristic parameters and dynamics of centrifugal pumps under multiphase flow using physics-informed neural networks",
+    "year": 2024,
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "doi": "https://doi.org/10.1016/j.engappai.2024.109378",
+    "cited": 23,
+    "type": "article"
+   },
+   {
+    "title": "PINN-Sed: Interconnected Physics-Informed Machine Learning Model for High Resolution Suspended Sediment Transport in River Network",
+    "year": 2026,
+    "venue": "Journal of Hydraulic Engineering",
+    "doi": "https://doi.org/10.1061/jhend8.hyeng-14926",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Real-Time State Estimation in High-Altitude Hydropower Cascades",
+    "year": 2026,
+    "venue": "Journal of modern energy research.",
+    "doi": "https://doi.org/10.56947/jmer.v7.1",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Three-Dimensional River Microplastic Transport: Integrating Conservation Principles with Deep Learning",
+    "year": 2026,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su18031392",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for two-dimensional wall-reactive solute dispersion in canonical shear flows",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2608.00856",
+    "cited": 2,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics-informed Chebyshev polynomial neural operator for parametric partial differential equations",
+    "year": 2026,
+    "venue": "Chinese Journal of Aeronautics",
+    "doi": "https://doi.org/10.1016/j.cja.2026.104406",
+    "cited": 2,
+    "type": "article"
+   },
+   {
+    "title": "Physical informed neural networks with soft and hard boundary constraints for solving advection-diffusion equations using Fourier expansions",
+    "year": 2024,
+    "venue": "Computers & Mathematics with Applications",
+    "doi": "https://doi.org/10.1016/j.camwa.2024.01.021",
+    "cited": 59,
+    "type": "article"
+   },
+   {
+    "title": "Artificial Neural Network Prediction of Sediment Reduction Ratio in Open Channel Flows",
+    "year": 2026,
+    "venue": "Civil Engineering Journal",
+    "doi": "https://doi.org/10.28991/cej-2026-012-06-018",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Fuzzy machine learning predictions of settling velocity based on fractal aggregate physical features in water treatment",
+    "year": 2024,
+    "venue": "Journal of Water Process Engineering",
+    "doi": "https://doi.org/10.1016/j.jwpe.2024.106138",
+    "cited": 12,
+    "type": "article"
+   },
+   {
+    "title": "Modeling of water waves and sediment transport using physics-based and machine learning methods",
+    "year": 2022,
+    "venue": null,
+    "doi": "https://doi.org/10.17760/d20467269",
+    "cited": 0,
+    "type": "dissertation"
+   },
+   {
+    "title": "End-to-End Neural Interpolation of Satellite-Derived Sea Surface Suspended Sediment Concentrations",
+    "year": 2022,
+    "venue": "Remote Sensing",
+    "doi": "https://doi.org/10.3390/rs14164024",
+    "cited": 18,
+    "type": "article"
+   },
+   {
+    "title": "Spatiotemporal graph neural networks for analyzing the influence mechanisms of river hydrodynamics on microplastic transport processes",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-025-18731-2",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "Integrating machine learning into a fully coupled current-wave-sediment model: Characterizing particle size in the settling process in estuaries of the Great Barrier Reef, Australia",
+    "year": 2025,
+    "venue": "Ocean Modelling",
+    "doi": "https://doi.org/10.1016/j.ocemod.2025.102621",
+    "cited": 2,
+    "type": "article"
+   },
+   {
+    "title": "Application of artificial intelligence in mathematical models of sediment transport",
+    "year": 2026,
+    "venue": "Shuili Xuebao",
+    "doi": "https://doi.org/10.3724/j.slxb.20250419",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Data-driven modeling of a settling sphere in a quiescent medium",
+    "year": 2025,
+    "venue": "Physical Review Fluids",
+    "doi": "https://doi.org/10.1103/bh8w-xjrt",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Light-scattering reconstruction of transparent shapes using neural networks",
+    "year": 2026,
+    "venue": "Physical Review Fluids",
+    "doi": "https://doi.org/10.1103/n2kn-zkqv",
+    "cited": 2,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed symbolic regression reveals a delayed oscillatory closure for particle–interface dynamics",
+    "year": 2026,
+    "venue": "Machine Learning Science and Technology",
+    "doi": "https://doi.org/10.1088/2632-2153/ae9c8b",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Prediction of sedimentation concentration profiles in inclined suspension systems: A data-driven neural network framework",
+    "year": 2026,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-44423-6",
+    "cited": 0,
+    "type": "article"
+   }
+  ],
+  "s2": [],
+  "arxiv": [
+   {
+    "title": "Identification of Settling Velocity with Physics Informed Neural Networks For Sediment Laden Flows",
+    "year": "2024",
+    "id": "http://arxiv.org/abs/2404.06802v1"
+   }
+  ]
+ },
+ "physics-informed neural network reservoir sedimentation": {
+  "openalex": [
+   {
+    "title": "Application of Physics-Informed Neural Networks to River Silting Simulation",
+    "year": 2023,
+    "venue": "Applied Sciences",
+    "doi": "https://doi.org/10.3390/app132111983",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "Visual information guided physics informed neural networks framework for predictive coagulant dose optimization",
+    "year": 2026,
+    "venue": "Discover Artificial Intelligence",
+    "doi": "https://doi.org/10.1007/s44163-026-02372-z",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Modeling Siltation of River Channels using the Physics-Informed Neural Networks Method and Numerical Simulation",
+    "year": 2024,
+    "venue": "Engineered Science",
+    "doi": "https://doi.org/10.30919/es1296",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "Advances in two-phase flow and heat transfer using physics-informed neural networks",
+    "year": 2025,
+    "venue": "Chinese Science Bulletin (Chinese Version)",
+    "doi": "https://doi.org/10.1360/csb-2025-5354",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Incorporating Sediment Compaction into Reservoir Sedimentation Estimates Using Machine Learning: Case Study of the Xiluodu Reservoir",
+    "year": 2026,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su18073249",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "Thermal Earth model for the conterminous United States using an interpolative physics-informed graph neural network",
+    "year": 2024,
+    "venue": "Geothermal Energy",
+    "doi": "https://doi.org/10.1186/s40517-024-00304-7",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "BATHYRES: How much can satellites reveal about the bed of an old reservoir? Physics-constrained machine learning, identifiability limits, and a capacity-anchored stage–storage curve for Itezhi-Tezhi Reservoir, Zambia",
+    "year": 2026,
+    "venue": "SSRN Electronic Journal",
+    "doi": "https://doi.org/10.2139/ssrn.7570613",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "BATHYRES: How much can satellites reveal about the bed of an old reservoir? Physics-constrained machine learning, identifiability limits, and a capacity-anchored stage–storage curve for Itezhi-Tezhi Reservoir, Zambia",
+    "year": 2026,
+    "venue": "SSRN Electronic Journal",
+    "doi": "https://doi.org/10.2139/ssrn.7506826",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Fe₃O₄–CNT/paraffin nanoparticles impact on MHD Darcy–Forchheimer flow heat transfer using physics-informed neural network",
+    "year": 2026,
+    "venue": "Materials Today Communications",
+    "doi": "https://doi.org/10.1016/j.mtcomm.2026.116407",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "A Physics‐Enhanced Neural Network for Estimating Longitudinal Dispersion Coefficient and Average Solute Transport Velocity in Porous Media",
+    "year": 2024,
+    "venue": "Geophysical Research Letters",
+    "doi": "https://doi.org/10.1029/2024gl110683",
+    "cited": 8,
+    "type": "article"
+   },
+   {
+    "title": "Prediction of sedimentation concentration profiles in inclined suspension systems: A data-driven neural network framework",
+    "year": 2026,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-44423-6",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "A physics-informed hybrid ML framework for pore pressure and fracture gradient prediction in carbonate reservoirs",
+    "year": 2026,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-026-41773-z",
+    "cited": 2,
+    "type": "article"
+   },
+   {
+    "title": "Modeling the dynamics of PDE systems with physics-constrained deep auto-regressive networks",
+    "year": 2019,
+    "venue": "Journal of Computational Physics",
+    "doi": "https://doi.org/10.1016/j.jcp.2019.109056",
+    "cited": 374,
+    "type": "article"
+   },
+   {
+    "title": "Physics‐Informed Fusion Learning for Nowcasting Fault Detection of Hydrological Multi Sensor Network",
+    "year": 2026,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2026wr043436",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Multivariate Coupling Model and Reservoir Characteristics of Enhanced Geothermal Reservoirs",
+    "year": 2026,
+    "venue": "Energies",
+    "doi": "https://doi.org/10.3390/en19133180",
+    "cited": 57,
+    "type": "article"
+   },
+   {
+    "title": "Optimization of Sediment Management in Dam Reservoirs: A Comprehensive Study of Dohuk Dam, Iraq",
+    "year": 2025,
+    "venue": "International Journal of Computational and Experimental Science and Engineering",
+    "doi": "https://doi.org/10.22399/ijcesen.4160",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed temporal attention network for river temperature and dissolved oxygen forecasting near Rooppur Nuclear Power Plant",
+    "year": 2026,
+    "venue": "Results in Engineering",
+    "doi": "https://doi.org/10.1016/j.rineng.2026.112891",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "PREDICTIVE SEDIMENT TRANSPORT MODELS FOR SUSTAINABLE RESERVOIR MANAGEMENT: AN EXPERT REVIEW OF METHODOLOGIES AND APPLICATIONS",
+    "year": 2025,
+    "venue": "JOURNAL OF CIVIL ENGINEERING AND TECHNOLOGY (JCIET)",
+    "doi": "https://doi.org/10.34218/jciet_11_02_002",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "PHYSICS-INFORMED DEEP LEARNING FOR PREDICTING PHYTOPLANKTON DYNAMICS AND HYPOXIA IN ENCLOSED WATERS",
+    "year": 2026,
+    "venue": "International Journal of Geomate",
+    "doi": "https://doi.org/10.21660/2026.142.g15331",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Data Augmentation for Sediment Concentration Prediction in Data-Scarce Himalayan Rivers",
+    "year": 2026,
+    "venue": "International  Journal on Engineering Technology and Infrastructure Development.",
+    "doi": "https://doi.org/10.3126/injet-indev.v2i2.95706",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "A PROBABILISTIC TWO-REGIME GOVERNING MODEL FOR PREDICTING INFLOW SUSPENDED SEDIMENT CONCENTRATION IN DAM RESERVOIRS",
+    "year": 2026,
+    "venue": "Larhyss journal",
+    "doi": null,
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Downscaling GRACE Data for Improved Groundwater Forecasting Using Artificial Neural Networks",
+    "year": 2025,
+    "venue": "Civil Engineering Journal",
+    "doi": "https://doi.org/10.28991/cej-2025-011-02-01",
+    "cited": 15,
+    "type": "article"
+   },
+   {
+    "title": "A Review on Machine Learning-Based Neural Network Techniques for Flood Prediction",
+    "year": 2022,
+    "venue": "VFAST Transactions on Software Engineering",
+    "doi": "https://doi.org/10.21015/vtse.v10i1.835",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "Artificial Neural Network Prediction of Sediment Reduction Ratio in Open Channel Flows",
+    "year": 2026,
+    "venue": "Civil Engineering Journal",
+    "doi": "https://doi.org/10.28991/cej-2026-012-06-018",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Application of Dynamic-Static Neural Network Model Integrating Physical Constraints in EUR Prediction of Shale Gas Wells",
+    "year": 2025,
+    "venue": "ACS Omega",
+    "doi": "https://doi.org/10.1021/acsomega.5c10862",
+    "cited": 3,
+    "type": "article"
+   }
+  ],
+  "s2": [],
+  "arxiv": []
+ },
+ "physics-informed neural network turbidity": {
+  "openalex": [
+   {
+    "title": "A Physics‐Informed Neural Network as a Digital Twin of Optically Turbid Media",
+    "year": 2025,
+    "venue": "Advanced Intelligent Systems",
+    "doi": "https://doi.org/10.1002/aisy.202400574",
+    "cited": 4,
+    "type": "article"
+   },
+   {
+    "title": "A Physics‐Informed Neural Network as a Digital Twin of Optically Turbid Media",
+    "year": 2025,
+    "venue": "Advanced Intelligent Systems",
+    "doi": "https://doi.org/10.1002/aisy.202570024",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural network for polarimetric underwater imaging",
+    "year": 2022,
+    "venue": "Optics Express",
+    "doi": "https://doi.org/10.1364/oe.461074",
+    "cited": 43,
+    "type": "article"
+   },
+   {
+    "title": "Visual information guided physics informed neural networks framework for predictive coagulant dose optimization",
+    "year": 2026,
+    "venue": "Discover Artificial Intelligence",
+    "doi": "https://doi.org/10.1007/s44163-026-02372-z",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physic-informed neural networks for microalgae modeling",
+    "year": 2023,
+    "venue": "HAL",
+    "doi": null,
+    "cited": 0,
+    "type": "conference-paper"
+   },
+   {
+    "title": "Referenceless characterization of complex media using physics-informed neural networks",
+    "year": 2023,
+    "venue": "Optics Express",
+    "doi": "https://doi.org/10.1364/oe.500529",
+    "cited": 23,
+    "type": "article"
+   },
+   {
+    "title": "Curvature-aware dynamic precision approach for physics-informed neural networks",
+    "year": 2026,
+    "venue": "Neurocomputing",
+    "doi": "https://doi.org/10.1016/j.neucom.2026.134698",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Evaluating physics informed neural networks for water contamination risk prediction and environmental sustainability",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-025-30196-x",
+    "cited": 14,
+    "type": "article"
+   },
+   {
+    "title": "Visual Information-guided Physics-Informed Neural Network (VI-PINN) for predictive forecasting and control of the flocculation sedimentation process",
+    "year": 2025,
+    "venue": "Minerals Engineering",
+    "doi": "https://doi.org/10.1016/j.mineng.2025.109504",
+    "cited": 5,
+    "type": "article"
+   },
+   {
+    "title": "Enhancing analytical photon transport in turbid media through physics-guided neural network corrections",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2610.26917",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "A physics-informed neural network for interpretable membrane-fouling prediction with adaptive transitions between fouling mechanisms",
+    "year": 2026,
+    "venue": "Separation and Purification Technology",
+    "doi": "https://doi.org/10.1016/j.seppur.2026.137512",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for quantitative tissue chromophore and fluorophore estimation from reflectance and fluorescence spectra",
+    "year": 2026,
+    "venue": "Tissue Optics and Photonics",
+    "doi": "https://doi.org/10.1117/12.3099464",
+    "cited": 0,
+    "type": "conference-paper"
+   },
+   {
+    "title": "Bespoke Real‐Time Multispectral Imaging for Apple Browning Evaluation Using Physics‐Informed Neural Networks",
+    "year": 2026,
+    "venue": "Journal of Food Process Engineering",
+    "doi": "https://doi.org/10.1111/jfpe.70853",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "One-Dimensional Radiative Transfer Equation Solution by Physics-Informed Neural Networks: Performance Analysis",
+    "year": 2025,
+    "venue": "Light & Engineering",
+    "doi": "https://doi.org/10.33383/2024-076",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Auxiliary physics-informed neural networks for forward, inverse, and coupled radiative transfer problems",
+    "year": 2023,
+    "venue": "Applied Physics Letters",
+    "doi": "https://doi.org/10.1063/5.0167155",
+    "cited": 22,
+    "type": "article"
+   },
+   {
+    "title": "Enhancing drinking water quality modeling: leveraging physics informed neural networks for learning with imperfect reaction models and partial data",
+    "year": 2025,
+    "venue": "Environmental Science Water Research & Technology",
+    "doi": "https://doi.org/10.1039/d5ew00682a",
+    "cited": 8,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Guided Architecture (PGA) of Neural Networks for Quantifying Uncertainty in Lake Temperature Modeling",
+    "year": 2020,
+    "venue": "Society for Industrial and Applied Mathematics eBooks",
+    "doi": "https://doi.org/10.1137/1.9781611976236.60",
+    "cited": 178,
+    "type": "conference-paper"
+   },
+   {
+    "title": "Video reconstruction through dynamic scattering media based on physics-informed spatio-temporal transformer",
+    "year": 2025,
+    "venue": "Figshare",
+    "doi": "https://doi.org/10.6084/m9.figshare.c.8097424",
+    "cited": 0,
+    "type": "supplementary-materials"
+   },
+   {
+    "title": "Video reconstruction through dynamic scattering media based on physics-informed spatio-temporal transformer",
+    "year": 2025,
+    "venue": "Optics Express",
+    "doi": "https://doi.org/10.1364/oe.576675",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physical informed neural networks with soft and hard boundary constraints for solving advection-diffusion equations using Fourier expansions",
+    "year": 2024,
+    "venue": "Computers & Mathematics with Applications",
+    "doi": "https://doi.org/10.1016/j.camwa.2024.01.021",
+    "cited": 59,
+    "type": "article"
+   },
+   {
+    "title": "Physics-guided modeling of turbidity dynamics in Lake Tana: Integrating satellite-derived Forel-Ule Index and physical forcing using regression and PINN approaches",
+    "year": 2026,
+    "venue": "H2Open Journal",
+    "doi": "https://doi.org/10.1016/j.htopen.2026.100049",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Deep Neural Network for Polarimetric Descattering Imaging in Dynamic Cement Dust Environments",
+    "year": 2026,
+    "venue": "Photonics",
+    "doi": "https://doi.org/10.3390/photonics13040376",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "$$Binverse Model For Predict Turbidity Current Characteristics Based On Graph Neural Networks",
+    "year": 2026,
+    "venue": "PUCRS Repository (Pontifical Catholic University of Rio Grande do Sul)",
+    "doi": null,
+    "cited": 0,
+    "type": "dissertation"
+   },
+   {
+    "title": "Depth-Resolved Coral Reef Thermal Fields from Satellite SST and Sparse In-Situ Loggers Using Physics-Informed Neural Networks",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2604.13131",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics-Informed Neural Network for Bathymetry Inversion Coupling Seafloor Slope Effects and Radiative Transfer Constraints Using ICESat-2 and Sentinel-2 Data",
+    "year": 2026,
+    "venue": "Remote Sensing",
+    "doi": "https://doi.org/10.3390/rs18091291",
+    "cited": 2,
+    "type": "article"
+   }
+  ],
+  "s2": [],
+  "arxiv": [
+   {
+    "title": "Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport",
+    "year": "2026",
+    "id": "http://arxiv.org/abs/2606.19562v1"
+   },
+   {
+    "title": "Bin Latent Transformer (BiLT): A shift-invariant autoencoder for calibration-free spectral unmixing of turbid media",
+    "year": "2026",
+    "id": "http://arxiv.org/abs/2605.11829v1"
+   }
+  ]
+ },
+ "physics-informed neural network water quality transport river inverse": {
+  "openalex": [
+   {
+    "title": "Physics‐Informed Neural Networks of the Saint‐Venant Equations for Downscaling a Large‐Scale River Model",
+    "year": 2023,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2022wr033168",
+    "cited": 122,
+    "type": "article"
+   },
+   {
+    "title": "Application of Physics-Informed Neural Networks to River Silting Simulation",
+    "year": 2023,
+    "venue": "Applied Sciences",
+    "doi": "https://doi.org/10.3390/app132111983",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "Enhanced physics‐informed neural networks for efficient modelling of hydrodynamics in river networks",
+    "year": 2024,
+    "venue": "Hydrological Processes",
+    "doi": "https://doi.org/10.1002/hyp.15143",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Three-Dimensional River Microplastic Transport: Integrating Conservation Principles with Deep Learning",
+    "year": 2026,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su18031392",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Explicit physics-informed neural networks for nonlinear closure: The case of transport in tissues",
+    "year": 2021,
+    "venue": "Journal of Computational Physics",
+    "doi": "https://doi.org/10.1016/j.jcp.2021.110781",
+    "cited": 14,
+    "type": "article"
+   },
+   {
+    "title": "Evaluating physics informed neural networks for water contamination risk prediction and environmental sustainability",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-025-30196-x",
+    "cited": 14,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for solving flow problems modeled by the 2D Shallow Water Equations without labeled data",
+    "year": 2024,
+    "venue": "Journal of Hydrology",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2024.131263",
+    "cited": 92,
+    "type": "article"
+   },
+   {
+    "title": "Modeling Siltation of River Channels using the Physics-Informed Neural Networks Method and Numerical Simulation",
+    "year": 2024,
+    "venue": "Engineered Science",
+    "doi": "https://doi.org/10.30919/es1296",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "Probabilistic Inverse Modeling of Contaminant Transport via a Conditioned-on-Design Bayesian Physics Informed Neural Network",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2608.17591",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics-informed hydrological graph neural network for distributed daily streamflow prediction in directed river networks",
+    "year": 2026,
+    "venue": "Journal of Hydrology",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2026.136451",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Randomized physics-informed neural networks for Bayesian data assimilation",
+    "year": 2025,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "doi": "https://doi.org/10.1016/j.cma.2024.117670",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "Identification of settling velocity with physics informed neural networks for sediment Laden flows",
+    "year": 2024,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "doi": "https://doi.org/10.1016/j.cma.2024.117389",
+    "cited": 25,
+    "type": "article"
+   },
+   {
+    "title": "1-D coupled surface flow and transport equations revisited via the physics-informed neural network approach",
+    "year": 2023,
+    "venue": "Journal of Hydrology",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2023.130048",
+    "cited": 22,
+    "type": "article"
+   },
+   {
+    "title": "Data Assimilation and Parameter Identification for Water Waves Using the Nonlinear Schrödinger Equation and Physics-Informed Neural Networks",
+    "year": 2024,
+    "venue": "Fluids",
+    "doi": "https://doi.org/10.3390/fluids9100231",
+    "cited": 13,
+    "type": "article"
+   },
+   {
+    "title": "Surrogate models, physics-informed neural networks and climate change",
+    "year": 2024,
+    "venue": null,
+    "doi": "https://doi.org/10.4995/thesis/10251/205793",
+    "cited": 1,
+    "type": "dissertation"
+   },
+   {
+    "title": "Solving the Richards infiltration equation by coupling physics-informed neural networks with Hydrus-1D",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "doi": "https://doi.org/10.1038/s41598-025-02978-w",
+    "cited": 19,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed machine learning method for modelling transport of a conservative pollutant in surface water systems",
+    "year": 2023,
+    "venue": "Journal of Hydrology",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2023.129354",
+    "cited": 62,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks in Aerospace: A Structured Taxonomy with Literature Review",
+    "year": 2025,
+    "venue": "Challenges and Issues of Modern Science",
+    "doi": "https://doi.org/10.15421/cims.4.313",
+    "cited": 6,
+    "type": "article"
+   },
+   {
+    "title": "Simple computational strategies for more effective physics-informed neural networks modeling of turbulent natural convection",
+    "year": 2022,
+    "venue": "Journal of Computational Physics",
+    "doi": "https://doi.org/10.1016/j.jcp.2022.111022",
+    "cited": 60,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Predictive Maintenance in Nigerian Hydropower Infrastructure",
+    "year": 2025,
+    "venue": "IJIMCE : International Journal of Innovation in Mechanical Construction and Energy",
+    "doi": null,
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Solving forced KdV equation using physics-informed neural networks",
+    "year": 2026,
+    "venue": "Geoscience Letters",
+    "doi": "https://doi.org/10.1186/s40562-026-00497-8",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "Machine Learning in Fluid Dynamics—Physics-Informed Neural Networks (PINNs) Using Sparse Data: A Review",
+    "year": 2025,
+    "venue": "Fluids",
+    "doi": "https://doi.org/10.3390/fluids10090226",
+    "cited": 39,
+    "type": "review"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Flood Modelling: Review and Canonical Test-Cases",
+    "year": 2026,
+    "venue": "Research Square",
+    "doi": "https://doi.org/10.21203/rs.3.rs-9655056/v1",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics-informed machine learning for pollutant transport modelling in surface water",
+    "year": 2022,
+    "venue": "Proceedings of the IAHR World Congress",
+    "doi": "https://doi.org/10.3850/iahr-39wc252171192022697",
+    "cited": 2,
+    "type": "conference-paper"
+   },
+   {
+    "title": "Physics-Informed Neural Network water surface predictability for 1D steady-state open channel cases with different flow types and complex bed profile shapes",
+    "year": 2022,
+    "venue": "Advanced Modeling and Simulation in Engineering Sciences",
+    "doi": "https://doi.org/10.1186/s40323-022-00226-8",
+    "cited": 28,
+    "type": "article"
+   }
+  ],
+  "s2": [],
+  "arxiv": []
+ },
+ "physics-informed neural network depth-averaged transport numerical model velocity field": {
+  "openalex": [
+   {
+    "title": "fPINNs: Fractional Physics-Informed Neural Networks",
+    "year": 2019,
+    "venue": "SIAM Journal on Scientific Computing",
+    "doi": "https://doi.org/10.1137/18m1229845",
+    "cited": 1169,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for multiphysics data assimilation with application to subsurface transport",
+    "year": 2020,
+    "venue": "Advances in Water Resources",
+    "doi": "https://doi.org/10.1016/j.advwatres.2020.103610",
+    "cited": 413,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks with Hard Constraints for Inverse Design",
+    "year": 2021,
+    "venue": "SIAM Journal on Scientific Computing",
+    "doi": "https://doi.org/10.1137/21m1397908",
+    "cited": 937,
+    "type": "article"
+   },
+   {
+    "title": "An Expert's Guide to Training Physics-informed Neural Networks",
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2308.08468",
+    "cited": 299,
+    "type": "preprint"
+   },
+   {
+    "title": "Surface Flux Transport Modeling Using Physics-informed Neural Networks",
+    "year": 2024,
+    "venue": "The Astrophysical Journal",
+    "doi": "https://doi.org/10.3847/1538-4357/ad7d91",
+    "cited": 10,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Guided, Physics-Informed, and Physics-Encoded Neural Networks and Operators in Scientific Computing: Fluid and Solid Mechanics",
+    "year": 2024,
+    "venue": "Journal of Computing and Information Science in Engineering",
+    "doi": "https://doi.org/10.1115/1.4064449",
+    "cited": 414,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Deep Neural Operator Networks",
+    "year": 2023,
+    "venue": "Computational methods in engineering & the sciences",
+    "doi": "https://doi.org/10.1007/978-3-031-36644-4_6",
+    "cited": 222,
+    "type": "book-chapter"
+   },
+   {
+    "title": "Learning in Sinusoidal Spaces With Physics-Informed Neural Networks",
+    "year": 2022,
+    "venue": "IEEE Transactions on Artificial Intelligence",
+    "doi": "https://doi.org/10.1109/tai.2022.3192362",
+    "cited": 121,
+    "type": "article"
+   },
+   {
+    "title": "Simulation of multi-species flow and heat transfer using physics-informed neural networks",
+    "year": 2021,
+    "venue": "Physics of Fluids",
+    "doi": "https://doi.org/10.1063/5.0058529",
+    "cited": 213,
+    "type": "article"
+   },
+   {
+    "title": "Understanding Physics-Informed Neural Networks: Techniques, Applications, Trends, and Challenges",
+    "year": 2024,
+    "venue": "AI",
+    "doi": "https://doi.org/10.3390/ai5030074",
+    "cited": 317,
+    "type": "article"
+   },
+   {
+    "title": "Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next",
+    "year": 2022,
+    "venue": "Journal of Scientific Computing",
+    "doi": "https://doi.org/10.1007/s10915-022-01939-z",
+    "cited": 3256,
+    "type": "article"
+   },
+   {
+    "title": "Dense velocity reconstruction from particle image velocimetry/particle tracking velocimetry using a physics-informed neural network",
+    "year": 2022,
+    "venue": "Physics of Fluids",
+    "doi": "https://doi.org/10.1063/5.0078143",
+    "cited": 215,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for tsunami inundation modeling",
+    "year": 2025,
+    "venue": "Journal of Computational Physics",
+    "doi": "https://doi.org/10.1016/j.jcp.2025.114066",
+    "cited": 26,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks in Materials Modeling and Design: A Review",
+    "year": 2025,
+    "venue": "Archives of Computational Methods in Engineering",
+    "doi": "https://doi.org/10.1007/s11831-025-10448-9",
+    "cited": 52,
+    "type": "article"
+   },
+   {
+    "title": "Flow over an espresso cup: inferring 3-D velocity and pressure fields from tomographic background oriented Schlieren via physics-informed neural networks",
+    "year": 2021,
+    "venue": "Journal of Fluid Mechanics",
+    "doi": "https://doi.org/10.1017/jfm.2021.135",
+    "cited": 370,
+    "type": "article"
+   },
+   {
+    "title": "Modeling of 3D Blood Flows with Physics-Informed Neural Networks: Comparison of Network Architectures",
+    "year": 2023,
+    "venue": "Fluids",
+    "doi": "https://doi.org/10.3390/fluids8020046",
+    "cited": 54,
+    "type": "article"
+   },
+   {
+    "title": "A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks",
+    "year": 2022,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "doi": "https://doi.org/10.1016/j.cma.2022.115671",
+    "cited": 851,
+    "type": "article"
+   },
+   {
+    "title": "Multilevel domain decomposition-based architectures for physics-informed neural networks",
+    "year": 2024,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "doi": "https://doi.org/10.1016/j.cma.2024.117116",
+    "cited": 139,
+    "type": "article"
+   },
+   {
+    "title": "Flow field tomography with uncertainty quantification using a Bayesian physics-informed neural network",
+    "year": 2022,
+    "venue": "Measurement Science and Technology",
+    "doi": "https://doi.org/10.1088/1361-6501/ac5437",
+    "cited": 66,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Residual Convolutional Network Model for Depth-Averaged Landslide Dynamics",
+    "year": 2026,
+    "venue": "Applied Sciences",
+    "doi": "https://doi.org/10.3390/app16136637",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Hybrid thermal modeling of additive manufacturing processes using physics-informed neural networks for temperature prediction and parameter identification",
+    "year": 2023,
+    "venue": "Computational Mechanics",
+    "doi": "https://doi.org/10.1007/s00466-022-02257-9",
+    "cited": 183,
+    "type": "article"
+   },
+   {
+    "title": "A PHYSICS-INFORMED NEURAL NETWORK SURROGATE MODEL FOR TIDAL SIMULATIONS",
+    "year": 2023,
+    "venue": "UNCECOMP Proceedings",
+    "doi": "https://doi.org/10.7712/120223.10379.19908",
+    "cited": 15,
+    "type": "conference-paper"
+   },
+   {
+    "title": "Modeling parametric uncertainty in PDEs models via Physics-Informed Neural Networks",
+    "year": 2024,
+    "venue": "Advances in Water Resources",
+    "doi": "https://doi.org/10.1016/j.advwatres.2024.104870",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "Enhanced physics‐informed neural networks for efficient modelling of hydrodynamics in river networks",
+    "year": 2024,
+    "venue": "Hydrological Processes",
+    "doi": "https://doi.org/10.1002/hyp.15143",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "A Residual-Attention Physics-Informed Neural Network for Irregular Interfaces and Multi-Peak Transport Fields",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2603.22803",
+    "cited": 0,
+    "type": "preprint"
+   }
+  ],
+  "s2": [],
+  "arxiv": []
+ },
+ "PINN dispersion coefficient estimation river field data": {
+  "openalex": [
+   {
+    "title": "Application of PINNs to Define Roughness Coefficients for Channel Flow Problems",
+    "year": 2025,
+    "venue": "Water",
+    "doi": "https://doi.org/10.3390/w17182731",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "GS-PINN: Greedy Sampling for Parameter Estimation in Partial Differential Equations",
+    "year": 2024,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2405.08537",
+    "cited": 7,
+    "type": "preprint"
+   },
+   {
+    "title": "From PINNs to PIKANs: recent advances in physics-informed machine learning",
+    "year": 2025,
+    "venue": "Machine learning for computational science and engineering",
+    "doi": "https://doi.org/10.1007/s44379-025-00015-1",
+    "cited": 296,
+    "type": "article"
+   },
+   {
+    "title": "Hybrid PINN-LSTM Model for River Temperature Prediction: A Physics-Informed Deep Learning Approach",
+    "year": 2025,
+    "venue": "Journal of Computer and Communications",
+    "doi": "https://doi.org/10.4236/jcc.2025.136008",
+    "cited": 9,
+    "type": "article"
+   },
+   {
+    "title": "PINN-Sed: Interconnected Physics-Informed Machine Learning Model for High Resolution Suspended Sediment Transport in River Network",
+    "year": 2026,
+    "venue": "Journal of Hydraulic Engineering",
+    "doi": "https://doi.org/10.1061/jhend8.hyeng-14926",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics‐Informed Neural Network Method for Forward and Backward Advection‐Dispersion Equations",
+    "year": 2021,
+    "venue": "Water Resources Research",
+    "doi": "https://doi.org/10.1029/2020wr029479",
+    "cited": 153,
+    "type": "article"
+   },
+   {
+    "title": "An Efficient Multi‐Physics GPT‐PINN Framework for Predicting Reactive Solute Transport in Parameterized Groundwater Systems",
+    "year": 2026,
+    "venue": "Geophysical Research Letters",
+    "doi": "https://doi.org/10.1029/2025gl120217",
+    "cited": 9,
+    "type": "article"
+   },
+   {
+    "title": "Enhanced physics‐informed neural networks for efficient modelling of hydrodynamics in river networks",
+    "year": 2024,
+    "venue": "Hydrological Processes",
+    "doi": "https://doi.org/10.1002/hyp.15143",
+    "cited": 21,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural networks for hydrodynamic modelling in a 2D river system with complex riverbed terrains",
+    "year": 2026,
+    "venue": "Engineering Applications of Computational Fluid Mechanics",
+    "doi": "https://doi.org/10.1080/19942060.2026.2734363",
+    "cited": 1,
+    "type": "article"
+   },
+   {
+    "title": "A Comparative Study of Physics‐Informed and Data‐Driven Neural Networks for Compound Flood Simulation at River‐Ocean Interfaces: A Case Study of Hurricane Irene",
+    "year": 2025,
+    "venue": "Journal of Geophysical Research Machine Learning and Computation",
+    "doi": "https://doi.org/10.1029/2025jh000758",
+    "cited": 5,
+    "type": "article"
+   },
+   {
+    "title": "Non-contact discharge estimation using physics-informed neural networks and CNN-enhanced image velocimetry",
+    "year": 2026,
+    "venue": "Journal of Hydrology",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2026.136015",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Mathematical Modelling of One-Dimensional Solute Transport with an Exponentially Time-Varying Dispersion Coefficient in Porous Media",
+    "year": 2026,
+    "venue": "UMYU Scientifica",
+    "doi": "https://doi.org/10.56919/usci.2655.008",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "How sparse and how noisy? Systematic benchmarking of inverse physics-informed neural networks for Manning friction estimation in shallow water equations",
+    "year": 2026,
+    "venue": "Physics of Fluids",
+    "doi": "https://doi.org/10.1063/5.0349054",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks for Three-Dimensional River Microplastic Transport: Integrating Conservation Principles with Deep Learning",
+    "year": 2026,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su18031392",
+    "cited": 3,
+    "type": "article"
+   },
+   {
+    "title": "Randomized physics-informed neural networks for Bayesian data assimilation",
+    "year": 2025,
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "doi": "https://doi.org/10.1016/j.cma.2024.117670",
+    "cited": 17,
+    "type": "article"
+   },
+   {
+    "title": "Enhanced Physics-Informed Neural Networks for Deep Tunnel Seepage Field Prediction: A Bayesian Optimization Approach",
+    "year": 2025,
+    "venue": "Water",
+    "doi": "https://doi.org/10.3390/w17172621",
+    "cited": 11,
+    "type": "article"
+   },
+   {
+    "title": "Overestimation Risk in River-Lake Health Assessment: Dual Uncertainty (Indicator-Weight) Perspective",
+    "year": 2026,
+    "venue": "Water",
+    "doi": "https://doi.org/10.3390/w18131590",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed multi-task neural network for simultaneous leak detection, diameter estimation, and localization in multiphase pipelines",
+    "year": 2026,
+    "venue": "Process Safety and Environmental Protection",
+    "doi": "https://doi.org/10.1016/j.psep.2026.109609",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Data-driven and physics-informed AI for river pollution analysis in Serbia using open geodatabases",
+    "year": 2026,
+    "venue": "Geodata and AI.",
+    "doi": "https://doi.org/10.1016/j.geoai.2026.100111",
+    "cited": 2,
+    "type": "article"
+   },
+   {
+    "title": "Estimation of Mangrove Aboveground Carbon Using Integrated UAV-LiDAR and Satellite Data",
+    "year": 2025,
+    "venue": "Sustainability",
+    "doi": "https://doi.org/10.3390/su17188211",
+    "cited": 11,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "doi": "https://doi.org/10.48550/arxiv.2606.12735",
+    "cited": 0,
+    "type": "preprint"
+   },
+   {
+    "title": "Physics-Informed Neural Networks with Periodic Activation Functions for Solute Transport in Heterogeneous Porous Media",
+    "year": 2023,
+    "venue": "Mathematics",
+    "doi": "https://doi.org/10.3390/math12010063",
+    "cited": 73,
+    "type": "article"
+   },
+   {
+    "title": "Physics-informed neural network combined with characteristic-based split for solving Navier–Stokes equations",
+    "year": 2023,
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "doi": "https://doi.org/10.1016/j.engappai.2023.107453",
+    "cited": 31,
+    "type": "article"
+   },
+   {
+    "title": "A generalized cell-based model framework for contaminant dispersion in marine environments",
+    "year": 2026,
+    "venue": "Environmental Technology & Innovation",
+    "doi": "https://doi.org/10.1016/j.eti.2026.104920",
+    "cited": 0,
+    "type": "article"
+   },
+   {
+    "title": "Physics-Informed Neural Network water surface predictability for 1D steady-state open channel cases with different flow types and complex bed profile shapes",
+    "year": 2022,
+    "venue": "Advanced Modeling and Simulation in Engineering Sciences",
+    "doi": "https://doi.org/10.1186/s40323-022-00226-8",
+    "cited": 28,
+    "type": "article"
+   }
+  ],
+  "s2": [],
+  "arxiv": []
+ }
+}
